@@ -1,4 +1,4 @@
-Desarrollo de una app que almacena datos en localStorage
+Desarrollo de una app que almacena datos en localStorage manteniendolos en el HTML
 
     - Validación de formulario con mensaje de error en caso de text area en blanco
     - Muestra y almacenamiento de los tweets en la app con localStorage
