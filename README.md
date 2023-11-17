@@ -1,5 +1,6 @@
 Desarrollo de una app que almacena datos en localStorage
 
+    - Validación de formulario con mensaje de error en caso de text area en blanco
 
 Enlace a la app: 
 
