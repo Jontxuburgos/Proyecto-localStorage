@@ -2,8 +2,9 @@ Desarrollo de una app que almacena datos en localStorage
 
     - Validación de formulario con mensaje de error en caso de text area en blanco
     - Muestra y almacenamiento de los tweets en la app con localStorage
+    - Eliminar los tweets
 
-Enlace a la app: 
+Enlace a la app: https://warm-gelato-0c7863.netlify.app
 
 ----------------------------------------------------------------------------------------
 
